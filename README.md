@@ -1,11 +1,7 @@
 ﻿# Heartlight
 
-A mobile-responsive particle heart cutscene. The animation starts on entry; controls appear after the final personal message. Heartlight supports editable Vietnamese text, photo blending, color, shape, and share QR codes.
+Mobile-responsive particle heart cutscene. It autoplays, holds the heart shape throughout, reveals the personal message with fireworks before the ending, and shows controls only after the cutscene ends.
 
-Photos stay in the visitor's browser and are not sent to the site.
+Visitors can edit the Vietnamese-ready message, add a photo, adjust color and motion, replay, and share a link or QR. Photos stay in the current browser and are not uploaded or included in QR links.
 
-GitHub Pages deployment runs from the `main` branch via GitHub Actions.
-
-Permanent URL: https://sickduck696969.github.io/Heartlight/
-
-Download the default-message QR at https://sickduck696969.github.io/Heartlight/heartlight-qr.png.
+Live site: https://sickduck696969.github.io/Heartlight/
